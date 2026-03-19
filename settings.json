@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "funtimefam.aternos.me",
+    "ip": "funtimefam.aternos.me:52471",
     "port": 52471,
     "version": "",
     "try-creative": false
